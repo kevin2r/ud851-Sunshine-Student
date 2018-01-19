@@ -27,8 +27,8 @@
     <!--Used in overflow menu to refresh weather data-->
     <string name="action_refresh">Refresh</string>
 
-    <!--TODO (1) Add a string resource for your error message-->
-
+    <!--Used to show a connection error.-->
+    <string name="connection_error_message">Can not get the feed in this moment.</string>
 
     <!-- - - - - - - - - - - - - -->
     <!--Used by SunshineDateUtils-->
